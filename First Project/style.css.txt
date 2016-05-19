@@ -1,0 +1,28 @@
+body{
+background-color: #25D366;
+font-family: "Century";
+}
+
+#navigation {
+	padding: 0;
+	margin: 0;
+	}
+#navigation li {
+	display: inline;
+	float: left;
+	} 
+
+#navigation a, #navigation a:visited {
+	display: block;
+	width: 11.85em;
+	border: 3px solid #808
+	font-family: arial, Verdana;
+	font-size: 0.8em;
+	text-align: center;
+	text-decoration:none;
+	}
+
+<style>
+p.dotted {border-style: dotted;}
+<p class="dotted"><h1>Exotic Animals for Pets</h1></p>
+</style>  
